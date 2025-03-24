@@ -10,7 +10,7 @@ App(
     stack_size=2 * 1024,
     order=1,
     fap_icon_assets="icons",
-    fap_icon="flash10px.png",
+    fap_icon="app.png",
     fap_category="GPIO",
     fap_author="@GlivchGriefer",
     fap_weburl="https://github.com/GlivchGriefer",
